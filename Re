@@ -1,3 +1,7 @@
 This is my local repo
 this is for feature 1 branch
+<<<<<<< HEAD
 this if for conflict feature 1
+=======
+this is for conflict main
+>>>>>>> main
