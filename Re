@@ -1,3 +1,7 @@
 This is my local repo
 this is for feature 1 branch
+<<<<<<< HEAD
+this conflict from feature1
+=======
 this confict from main
+>>>>>>> main
