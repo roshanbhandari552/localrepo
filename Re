@@ -2,9 +2,7 @@ This is my local repo
 this is for feature 1 branch
 this conflict from feature1
 this confict from main
-<<<<<<< HEAD
 hello feature one
-=======
+
 this is written in black friday
 hello i am back
->>>>>>> main
