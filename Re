@@ -2,6 +2,10 @@ This is my local repo
 this is for feature 1 branch
 this conflict from feature1
 this confict from main
+hello feature one
+
 this is written in black friday
 hello i am back
 Written from december
+starting for december
+Hello world
