@@ -6,11 +6,5 @@ hello feature one
 
 this is written in black friday
 hello i am back
-Written from december
 starting for december
 Hello world
-<<<<<<< HEAD
-this is for local repo
-=======
-Hello again
->>>>>>> main
